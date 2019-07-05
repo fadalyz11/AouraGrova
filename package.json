@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/fadalyz11/AouraGrova#readme",
   "dependencies": {
-    "node-sass": "^4.12.0"
+    "live-server": "^1.2.1",
+    "node-sass": "^4.12.0",
+    "nodemon": "^1.19.1"
   }
 }
