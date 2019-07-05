@@ -22,6 +22,7 @@ font-family: "Raleway", sans-serif;
    }
 }
 
+
 #showcase {
     background: url("../images/main.jpeg") bottom center / cover no-repeat;
     min-height:750px;
@@ -47,6 +48,18 @@ font-family: "Raleway", sans-serif;
 #book {
     font-size:1.5rem;
     border-radius: 2rem;
+}
+
+#quotes {
+
+    i{
+
+        opacity:0.8;
+    }
+}
+
+#footer{
+    font-weight: 100;
 }
 
 @media(max-width: 768px) {
