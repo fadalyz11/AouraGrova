@@ -31,7 +31,7 @@
     "imagemin-pngquant": "^8.0.0",
     "live-server": "^1.2.1",
     "livereload": "^0.8.0",
-    "node-sass": "^4.12.0",
+    "node-sass": "^7.0.0",
     "nodemon": "^1.19.1"
   },
   "devDependencies": {
